@@ -17,5 +17,6 @@ export default function Component() {
         <h1 className="text-6xl font-bold text-white z-10">PLACEHOLDER-TEXT</h1>
       </section>
     </div>
+    tre
   )
 }
